@@ -1,0 +1,1 @@
+Sort internal table before read table with binary serach
